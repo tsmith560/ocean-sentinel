@@ -44,7 +44,7 @@ MIT License — Free for anyone to use, modify, and improve.
 ---
 
 ## Contact
-Developed by [Your Name].  
+Developed by Tiffany Smith [thirstsnake].  
 Open to collaboration with NGOs and marine conservationists.  
 Feel free to contribute or reach out!
 
