@@ -1,0 +1,4 @@
+event_id,date,location,region,species,num_killed,source_url
+GRD001,2021-08-29,Sandavágur,Faroe Islands,Pilot whales,1423,https://www.seashepherd.org.uk/news-and-commentary/news/1428-dolphins-killed-in-faroe-islands-grindadrap.html
+GRD002,2023-07-17,Klaksvík,Faroe Islands,Pilot whales,78,https://us.whales.org/2023/07/18/78-pilot-whales-killed-in-faroe-islands-grind/
+GRD003,2022-05-07,Tórshavn,Faroe Islands,Pilot whales,63,https://www.seashepherdglobal.org/latest-news/faroe-grind-2022/
